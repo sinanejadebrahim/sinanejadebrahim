@@ -13,7 +13,7 @@
 
 </p>
 
-![sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanejadebrahim&show_icons=true)<br>
+![sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanejadebrahim&show_icons=true&theme=dracula)<br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=md65edk7o3bn7qbmjyzwqqm4u)
 
 
