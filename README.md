@@ -10,11 +10,14 @@
 
  
   <p align="center">
-
+  
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7452C&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Sina+Nejadebrahim;DevOps+Engineer)](https://git.io/typing-svg)<br>
+<image src=gif.gif>
 </p>
 
 ![sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanejadebrahim&show_icons=true&theme=dracula)<br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=md65edk7o3bn7qbmjyzwqqm4u)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=md65edk7o3bn7qbmjyzwqqm4u&count=7)
 
 
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" /> 
