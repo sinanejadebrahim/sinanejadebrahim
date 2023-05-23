@@ -15,7 +15,7 @@
 <image src=gif.gif>
 </p>
 
-![sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanejadebrahim&show_icons=true&theme=dracula)<br>
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanejadebrahim&show_icons=true&theme=cobalt)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=md65edk7o3bn7qbmjyzwqqm4u&count=7)
 
