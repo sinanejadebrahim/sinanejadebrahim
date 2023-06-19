@@ -1,19 +1,39 @@
+<div align="center">
 
+<p align="center">
+  
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&color=F75C27&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Sina+Nejadebrahim+)](https://git.io/typing-svg)
+  <br><image src=naruto.gif width="500px" height="250px">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7781A&repeat=false&width=900&lines=Proactive+DevOps+advocate+optimizing+workflows+and+accelerating+delivery)](https://git.io/typing-svg)
+  </p>
+  </div>
 <div align="center">
   
-<h2> <img src="fire.gif" width="30"> Welcome<img src="fire.gif" width="30"></h2>
-
-
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sina-nejadebrahim/)](https://www.linkedin.com/in/sina-nejadebrahim/)
    ![](https://komarev.com/ghpvc/?username=sinanejadebrahim)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sinanejadebrahim)](https://t.me/sinanejadebrahim)
+ 
+ ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+ ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-000?&logo=GitLab)
+  ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU%20Bash)
+  
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache%20Kafka)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
+
 
  
-  <p align="center">
-  
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7452C&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Sina+Nejadebrahim;DevOps+Engineer)](https://git.io/typing-svg)<br>
-<image src=gif.gif>
-</p>
+
 
 ![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanejadebrahim&show_icons=true&theme=cobalt)
 
