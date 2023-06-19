@@ -4,7 +4,7 @@
   
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&color=F75C27&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Sina+Nejadebrahim+)](https://git.io/typing-svg)
-  <br><image src=naruto.gif width="500px" height="250px">
+  <br><image src=naruto.gif>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7781A&repeat=false&width=900&lines=Proactive+DevOps+advocate+optimizing+workflows+and+accelerating+delivery)](https://git.io/typing-svg)
   </p>
