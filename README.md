@@ -37,7 +37,8 @@
 
 ![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinanejadebrahim&show_icons=true&theme=cobalt)
 
-![spotify played ](https://spotify-recently-played-readme.vercel.app/api?user=md65edk7o3bn7qbmjyzwqqm4u&count=7&unique=on)
+![spotify played ](https://spotify-recently-played-readme.vercel.app/api?user=31ac3uczcm6tvru3mdfqxlhknmva&count=7&unique=on)
+
 
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" /> 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></br>
